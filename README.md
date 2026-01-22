@@ -97,7 +97,7 @@ class Developer:
 
 ## 🏆 Leadership & Volunteering
 
-**🏃‍♂️ Athletics Team Captain** - Leading 8+ athletes, organizing inter-college events  
+**🏃‍♂️ Club PR member** - Managed club members and events for the club  
 **🎭 Cultural Fest Manager** - Coordinating 5+ major events with cross-functional teams  
 **📚 Teaching Volunteer** - Educating 20+ underprivileged students  
 **🍽️ Community Service** - Organizing food distribution drives for communities in need
@@ -120,7 +120,7 @@ class Developer:
   
   ### 💫 "Code with purpose, lead with passion, contribute with heart!"
   
-  ![](https://komarev.com/ghpvc/?username=Vansh150705&color=00D9FF&style=for-the-badge&label=Profile+Views)
+  ![](https://komarev.com/ghpvc/?username=AryxnK&color=00D9FF&style=for-the-badge&label=Profile+Views)
   
 </div>
 
